@@ -13,7 +13,7 @@ En este caso use LibreOffice para la extracción y conversión de las tablas a C
 - Limpiar comentarios y asteriscos presentes al final de algunas tablas
 
 ## EDA
-[![Captura-de-pantalla-36.png](https://i.postimg.cc/jq8TG96N/Captura-de-pantalla-36.png)](https://postimg.cc/7bTjzKWY)
+[![Captura-de-pantalla-44.png](https://i.postimg.cc/T3KnrZ0c/Captura-de-pantalla-44.png)](https://postimg.cc/dhK7FNz7)
 
 Para esta etapa se realizo un primer análisis de los datos utilizando la librería de Python Matplotlib para los gráficos y Pandas para trabajar con la data, obteniendo los siguientes resultados:
 
