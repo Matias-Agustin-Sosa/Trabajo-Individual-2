@@ -21,6 +21,13 @@ Para esta etapa se realizo un primer análisis de los datos utilizando la librer
 
 - Valores Duplicados: No se encontraron duplicados.
 
-- Valores Atipicos (Outliers): en el análisis de los gráficos de disperción se puede ver como Buenos Aires consentra la consentra la mayoria de los Outliers   junto con Capital Federal. Esto no es de sorprender devido a la dencidad poblacional de ambas.Por otro lado en la tabla Ingresos, se puede ver como los      ultimos años tienen ingresos cada ves mayores de forma muy escalada, pero que se deve tener en   cuenta un factor muy inmportante que es la inflación   de   cada año.
+- Valores Atipicos (Outliers): en el análisis de los gráficos de disperción se puede ver como Buenos Aires consentra la consentra la mayoria de los Outliers   junto con Capital Federal. Esto no es de sorprender devido a la dencidad poblacional de ambas.Por otro lado en la tabla Ingresos, se puede ver como los ultimos años tienen ingresos cada ves mayores de forma muy escalada, pero que se deve tener en cuenta un factor muy inmportante que es la inflación   de   cada año.
 
-## Conclusiones y Recomendaciones
+## Conclusiones y Recomendaciones:
+
+Como primera observación podemos ver que las provincias con mayores accesos por tipos de tecnoogía, en el año 2023 son: Buenso Aires, Capital Federal, Cordoba y Santa fe.
+[![Captura-de-pantalla-45.png](https://i.postimg.cc/d01mFnHq/Captura-de-pantalla-45.png)](https://postimg.cc/bZ72H0fM)
+Al mismo tiempo podemos notar como los accesos por tecnología disminuyen drasticamente en el resto de las provincia. Igual no se tiene que ignorar el hecho de que todas las provincias, con un poco de variación, an tenido un cresimiento constante a traves de los años.
+El mismo patron se puede ver en el caso de los accesos por velocidad en el siguiente gráfico.
+[![Captura-de-pantalla-46.png](https://i.postimg.cc/DfXVFPHd/Captura-de-pantalla-46.png)](https://postimg.cc/Hjdv9XpV)
+
