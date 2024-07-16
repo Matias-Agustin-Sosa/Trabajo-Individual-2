@@ -52,7 +52,14 @@ Con respecto a los tipos de planes (512 kbps, + 512 Kbps - 1 Mbps, + 1 Mbps - 6 
 
 Viendo esto se plantea el siguiente KPI que propone un seguir aumentando los accesos de + 30 Mbps, esto pude traer mayores ganancias al ser un cervicio mas costoso y muy solicitado devido el avance de la tecnologia y su mayor consumo de Mbps.
 
+Por otro lado, si vemos la penetración por hogares y población, en el año 2023, podemos ver que los gráficos son más parejos y con decresimientos más controlados:
 
+[![Captura-de-pantalla-53.png](https://i.postimg.cc/c4KfFT9Y/Captura-de-pantalla-53.png)](https://postimg.cc/kBmV4NdX)
 
+[![Captura-de-pantalla-54.png](https://i.postimg.cc/85KrHrLt/Captura-de-pantalla-54.png)](https://postimg.cc/G8D23t7y)
 
+Esto puede reflejar que el alcance del producto, por havitantes y hogares, en cada provincia es vastante bueno.
 
+Ya para concluir tambien podemos ver el promedio de velocidad % por provincia en el año 2023, aca si se ve más predominancia de Capital federal, pero una mayor paregidad en el resto de las provincias exeptuando algunas como: La Pampa, San Juan, Santa cruz, Chubut y Tierra del Fuego. En el caso de las provincias patagonicas es de esperrar devido a sus largas distancias y vaja población, lo que encarecen el costo de servicio.
+
+[![Captura-de-pantalla-52.png](https://i.postimg.cc/D04mPpvw/Captura-de-pantalla-52.png)](https://postimg.cc/LgRHHTgc)
