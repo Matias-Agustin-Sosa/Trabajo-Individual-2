@@ -5,7 +5,7 @@ Para este proyecto se recibió un archivo excel con 15 tablas, de las cuales se 
 Las mismas poseen informacion del servicio de internet en Argentina provenientes del Ente Nacional de Comunicaciones (ENACOM).
 
 ## ETL
-
+[![Captura-de-pantalla-41.png](https://i.postimg.cc/SxBWSg4N/Captura-de-pantalla-41.png)](https://postimg.cc/qNGtQXg9)
 
 En este caso use LibreOffice para la extracción y conversión de las tablas a CSV, ademas de aplicar algunos cambios y transformaciones a los datos, algunas de ellas son:
 - Corrección de numeros del alfabeto  español al inglés remplazando comas por puntos en los decimales y quitando los separadores de miles.
