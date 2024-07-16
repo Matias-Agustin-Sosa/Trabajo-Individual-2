@@ -21,6 +21,6 @@ Para esta etapa se realizo un primer análisis de los datos utilizando la librer
 
 2.Valores Duplicados: No se encontraron duplicados.
 
-3.Valores Atipicos (Outliers): en el análisis de los gráficos de disperción se puede ver como Buenos Aires consentra la consentra la mayoria de los Outliers junto con Capital Federal. Esto no es de sorprender devido a la dencidad poblacional de ambas.Por otro lado en la tabla Ingresos, se puede ver como los ultimos años tienen ingresos cada ves mayores de forma muy escalada, pero que se deve tener en   cuenta un factor muy inmportante que es la inflación   de cada año.
+3.Valores Atipicos (Outliers): en el análisis de los gráficos de disperción se puede ver como Buenos Aires consentra la consentra la mayoria de los Outliers   junto con Capital Federal. Esto no es de sorprender devido a la dencidad poblacional de ambas.Por otro lado en la tabla Ingresos, se puede ver como los      ultimos años tienen ingresos cada ves mayores de forma muy escalada, pero que se deve tener en   cuenta un factor muy inmportante que es la inflación   de   cada año.
 
 ## Conclusiones y Recomendaciones
